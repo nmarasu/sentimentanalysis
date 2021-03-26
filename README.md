@@ -5,8 +5,7 @@ I used to dataset Reddit WallStreetBets Posts from https://www.kaggle.com/gpreda
 1. LSTM model - 90% accuracy 
 2. BiLSTM - 87% 
 3. BiLSTM with FastText embedding - 92%  
-4. BiLSTM with FastText embedding - 91% 
-5. BiLSTM with Glove embedding - 91.5% 
-6. BERT - 94% accuracy 
-7. BiLSTM with Glove embedding & attention layer - 92%.
+4. BiLSTM with Glove embedding - 91.5% 
+5. BERT - 94% accuracy 
+6. BiLSTM with Glove embedding & attention layer - 92%.
 
